@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "Vanilla Ice cream",
+            "price": 12,
+            "units": 1,
+            "inStock": true,
+            "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Chocolate Ice cream",
+            "price": 12,
+            "units": 1,
+            "inStock": true,
+            "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Cookies N' Cream Ice cream",
+            "price": 12,
+            "units": 1,
+            "inStock": true,
+            "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Mint Chocolate Chip Ice cream",
+            "price": 12,
+            "units": 1,
+            "inStock": true,
+            "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Chocolate Chip Cookie Dough",
+            "price": 12,
+            "units": 1,
+            "inStock": true,
+            "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Buttered Pecan Ice cream",
+            "price": 12,
+            "units": 1,
+            "inStock": true,
+            "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Cookie Dough Ice cream",
+            "price": 12,
+            "units": 1,
+            "inStock": true,
+            "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Strawberry Ice cream",
+            "price": 12,
+            "units": 1,
+            "inStock": true,
+            "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Moose Tracks Ice cream",
+            "price": 12,
+            "units": 1,
+            "inStock": true,
+            "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Vanilla Ice cream",
+            "price": 12,
+            "units": 1,
+            "inStock": true,
+            "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
+        }
+    ]
+}
