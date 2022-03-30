@@ -16,7 +16,7 @@
             "time": "03:45 PM",
             "price": 12,
             "quantity": 2,
-            "paymentStatus": "PAID",
+            "paymentStatus": "COD",
             "shipingStatus": "Pending",
             "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
         },
@@ -26,7 +26,7 @@
             "time": "03:45 PM",
             "price": 12,
             "quantity": 2,
-            "paymentStatus": "PAID",
+            "paymentStatus": "COD",
             "shipingStatus": "Pending",
             "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
         },
@@ -76,7 +76,7 @@
             "time": "03:45 PM",
             "price": 12,
             "quantity": 2,
-            "paymentStatus": "PAID",
+            "paymentStatus": "COD",
             "shipingStatus": "Pending",
             "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
         },
@@ -106,7 +106,7 @@
             "time": "03:45 PM",
             "price": 12,
             "quantity": 2,
-            "paymentStatus": "PAID",
+            "paymentStatus": "COD",
             "shipingStatus": "Pending",
             "image": "https://www.dreamscoops.com/wp-content/uploads/2020/08/ice-cream-flavors-featured-1.jpg"
         }
